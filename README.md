@@ -1,24 +1,29 @@
-# README
+# maniac soccer
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+皆さんがご存知の通りサッカーというスポーツは、点を取り合い勝敗を競うスポーツです。
+サッカーで最も盛り上がるシーンといえば、やはり得点が絡んだ時です。そこは、間違いありません。
+が、今回は、サッカー経験者目線からみたマニアックなシーンを厳選して共有する動画シェアウェブ
+サイトです。
 
-Things you may want to cover:
+### サイトテーマ
+ありふれた得点シーンだけでは、満足出来ない。
+そんな、あなたと同じ悩みを持ったサッカーマニアが厳選した動画をシェアして、みんなで盛り上がることを
+目的にしたウェブサイトです。
 
-* Ruby version
+### テーマを選んだ理由
+私自身もサッカーを10年以上をやってきたという背景から、youtube等でサッカーの動画をよく見ていますが、多くは得点シーンを抜粋した動画です。
+得点シーンは、確かに盛り上がりますが、得点シーン以外でも注目してほしいシーンがあると思いこのウェブサイトを作製しようと思いまいした。
 
-* System dependencies
+### ターゲットユーザ
+サッカー経験者の観点からおすすめ動画を探している人
 
-* Configuration
+### 主な利用シーン
+得点シーンを一通り見て、さらにいいプレーを見たい人
 
-* Database creation
+## 設計書
+https://docs.google.com/spreadsheets/d/1zEjjc0jZR745EIjRei7y7gr--9NzvQcu/edit#gid=770112885
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### 機能一覧
+https://docs.google.com/spreadsheets/d/1k-Zm4dLAa-Cxve70LHSJlLRKKF3y2c0rGJDyaJ2fGFk/edit#gid=0
